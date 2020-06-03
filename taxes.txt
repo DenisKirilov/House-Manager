@@ -1,0 +1,5 @@
+Date: 13/01/2020, Building: 1, Total tax: 50$ , Paid : true
+Date: 13/01/2020, Building: 2, Total tax: 25$ , Paid : true
+Date: 13/01/2020, Building: 3, Total tax: 55$ , Paid : false
+Date: 13/01/2020, Building: 4, Total tax: 45$ , Paid : true
+Date: 13/01/2020, Building: 5, Total tax: 35$ , Paid : false
